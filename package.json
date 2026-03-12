@@ -1,0 +1,27 @@
+{
+  "name": "citylens-ai",
+  "version": "1.0.0",
+  "description": "Montgomery Alabama's AI-powered civic permit navigator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jspdf": "^2.5.1",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
